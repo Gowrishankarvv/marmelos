@@ -555,7 +555,7 @@
 .icon-arrow-circle-down:before {
   content: "\f0ab";
 }
-.icon-globe:before {
+.-globe:before {
   content: "\f0ac";
 }
 .icon-wrench:before {
